@@ -37,14 +37,20 @@ This is an heatmap that represent the output of the brute force routine we used 
 <table>
   <tr>
     <td>
-     <h3>US TECH 100, NASDAQ 100</h3>
+     <h4>US TECH 100, NASDAQ 100</h4>
       <img src="Heat_map_USTECH.png"" width="100%" />
-      <p>This is an heatmap that represent the outp.</p>
+      <p></p>
+      <p>We took an atr multiplier of : 1,5 </p>
+      <p></p>
+      <p>and an risk to reward ratio of : 9,1</p>
     </td>
     <td>
-     <h3>Ethereum</h3>
+     <h4>Ethereum</h4>
       <img src="ETH_USDT_HEATMAP.png" width="100%" />
-      <p>This is a description for the right image.</p>
+      <p></p>
+      <p>We took an atr multiplier of : 5,5 </p>
+      <p></p>
+      <p>and an risk to reward ratio of : 6,1</p>
     </td>
   </tr>
 </table>
