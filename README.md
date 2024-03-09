@@ -30,5 +30,11 @@ Random Forest is an ensemble learning method that operates by constructing a mul
  - 1/4 for the out-of-sample testing
 
 
+## brute force
+
+![Alt text](/images/Heat_map_USTECH "Optional title")
+![Alt text](/images/Heat_map_USTECH "Optional title")
+
+
 
 
