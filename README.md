@@ -32,9 +32,21 @@ Random Forest is an ensemble learning method that operates by constructing a mul
 
 ## brute force
 
-![Alt text](Heat_map_USTECH.png "Heatmap")
-![Alt text](US_TECH_equity.png "results")
+This is an heatmap that represent the output of the brute force routine we used to optimize the parametters of the trading strategy.
 
-
+<table>
+  <tr>
+    <td>
+     <h3>US TECH 100, NASDAQ 100</h3>
+      <img src="Heat_map_USTECH.png"" width="100%" />
+      <p>This is an heatmap that represent the outp.</p>
+    </td>
+    <td>
+     <h3>Ethereum</h3>
+      <img src="Heat_map_USTECH.png" width="100%" />
+      <p>This is a description for the right image.</p>
+    </td>
+  </tr>
+</table>
 
 
