@@ -43,7 +43,7 @@ This is an heatmap that represent the output of the brute force routine we used 
     </td>
     <td>
      <h3>Ethereum</h3>
-      <img src="Heat_map_USTECH.png" width="100%" />
+      <img src="ETH_USDT_HEATMAP.png" width="100%" />
       <p>This is a description for the right image.</p>
     </td>
   </tr>
