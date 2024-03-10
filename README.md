@@ -17,20 +17,20 @@ This extra layer of analysis contributes to a more nuanced and selective approac
 
 We provide each model with a plethora of indicators and data to ensure they have comprehensive information to analyze. By supplying an extensive range of data and indicators, we enable the models to extract valuable insights from the data and price action of each underlying asset. Among the data provided are the returns of the last five trading candles, ATR (Average True Range), various EMAs (Exponential Moving Averages) with their slopes, and the minimum and maximum prices for the last 20/50/200 periods, among others.
 
-##### - LSTM (Long Short-Term Memory):
+##### LSTM (Long Short-Term Memory):
 LSTM networks are a type of recurrent neural network (RNN) that are particularly well-suited for analyzing time series data. They excel at capturing long-term dependencies and non-linear behaviors in the data, which makes them an advanced and powerful tool for predicting the time-series data typically encountered in financial markets. Their ability to remember information for extended periods is what sets them apart from standard RNNs, making them highly effective for our metalabeling purposes where understanding past price movements is crucial.
 
-##### - Random Forest:
+##### Random Forest:
 Random Forest is an ensemble learning method that operates by constructing a multitude of decision trees during the training phase and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees. Random forests correct for decision trees' habit of overfitting to their training set, providing a more generalized and robust prediction.
 
 
-## sample management
+## Sample management
 
  - 3/4 for fiting the model, in this sample we will run the brute force routine on 1/5 of it.
  - 1/4 for the out-of-sample testing
 
 
-## brute force
+## Brute force
 
 This is an heatmap that represent the output of the brute force routine we used to optimize the parametters of the trading strategy.
 
@@ -57,7 +57,7 @@ This is an heatmap that represent the output of the brute force routine we used 
 
 
 
-## results 
+## Results 
 
 We can see the results of each model for the metalabelling task
 
