@@ -56,3 +56,24 @@ This is an heatmap that represent the output of the brute force routine we used 
 </table>
 
 
+
+## results 
+
+We can see the results of each model for the metalabelling task
+
+<table>
+  <tr>
+    <td>
+     <h4>US TECH 100, NASDAQ 100</h4>
+      <img src="Equity_curve_USTECH.png" width="100%" />
+      <p></p>
+    </td>
+    <td>
+     <h4>Ethereum</h4>
+      <img src="Equity_curve_ETHUSDT.png" width="100%" />
+    </td>
+  </tr>
+</table>
+
+
+
