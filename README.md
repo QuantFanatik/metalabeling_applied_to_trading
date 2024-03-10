@@ -59,7 +59,11 @@ This is an heatmap that represent the output of the brute force routine we used 
 
 ## Results 
 
-We can see the results of each model for the metalabelling task
+We can see the results for each metalabelling trading models. From the differents plot we can see that random forest performed better than the LSTM model, it can be becasue of many reasons: 
+- Lack of hyperparemter optimisation
+- Overfitting
+- Underfitting
+  
 
 <table>
   <tr>
