@@ -76,4 +76,24 @@ We can see the results of each model for the metalabelling task
 </table>
 
 
+## Acknowledgements and Credits
+
+### Data Sources
+
+- Cryptocurrency data has been sourced from the Binance exchange platform, providing comprehensive market insights for various digital assets.
+- Data pertaining to the US technology sector, specifically the US Tech 100 (NASDAQ 100), has been obtained from Dukascopy, which offers detailed financial information.
+
+### Libraries
+
+A heartfelt thank you to the developers and contributors of the various open-source libraries that have been instrumental in the realization of this project.
+
+
+
+
+  
+
+
+
+
+
 
