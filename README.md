@@ -38,7 +38,7 @@ This is an heatmap that represent the output of the brute force routine we used 
   <tr>
     <td>
      <h4>US TECH 100, NASDAQ 100</h4>
-      <img src="Heat_map_USTECH.png"" width="100%" />
+      <img src="Heat_map_USTECH.png" width="100%" />
       <p></p>
       <p>We took an atr multiplier of : 1,5 </p>
       <p></p>
